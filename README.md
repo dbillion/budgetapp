@@ -16,6 +16,9 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+![realbudgetapp45](https://github.com/user-attachments/assets/7ab6819b-a3f6-4001-909b-85570ac39f34)
+
+
 
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
@@ -38,4 +41,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
 
-![realbudgetapp45](https://github.com/user-attachments/assets/b7cd7c26-387b-41cb-a6c2-a5acd7113ad5)
+
